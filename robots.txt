@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kuigutaep.edgedef.com/sitemap.xml
